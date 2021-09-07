@@ -19,6 +19,16 @@ Esse projeto visa atender uma atividade do professor <a href="https://github.com
     </a>            
 </p>
 
+<h3> Protótipo do Site </h3>
+Para a criação do design, foi-se criado o seguinte protótipo, que está dividido em duas imagens: a primeira a tela inicial e a segunda a tela final. 
+
+<p align="center">
+
+<img src="https://github.com/DyogoBendo/Meteoro/assets/Imagem_Prototipo_1.jpg">
+<img src="https://github.com/DyogoBendo/Meteoro/assets/Imagem_Prototipo_2.jpg">
+
+</p>
+
 <h2> Informações sobre o conteúdo do site</h2>
 
 <h3> Luan Santana </h3>
