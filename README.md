@@ -7,14 +7,15 @@ Esse projeto visa atender uma atividade do professor <a href="https://github.com
 
 
 <h2> Desenvolvedores </h2>
-<p>
+<p align="center">
     <a href="https://github.com/NikolyCover"> 
-        <img src="https://github.com/NikolyCover.png?size=150">
+        <img src="https://github.com/NikolyCover.png?size=150">        
     </a>    
     <a href="https://github.com/vinniciusJ"> 
         <img src="https://github.com/vinniciusJ.png?size=150">
     </a>    
     <a href="https://github.com/DyogoBendo"> 
         <img src="https://github.com/DyogoBendo.png?size=150">
-    </a>    
+    </a>        
+    
 </p>
