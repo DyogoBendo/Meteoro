@@ -24,8 +24,8 @@ Para a criação do design, foi-se criado o seguinte protótipo, que está divid
 
 <p align="center">
 
-<img src="https://github.com/DyogoBendo/Meteoro/assets/Imagem_Prototipo_1.jpg">
-<img src="https://github.com/DyogoBendo/Meteoro/assets/Imagem_Prototipo_2.jpg">
+<img src="https://github.com/DyogoBendo/Meteoro/blob/main/assets/Imagem_Prototipo_1.jpg">
+<img src="https://github.com/DyogoBendo/Meteoro/blob/main/assets/Imagem_Prototipo_2.jpg">
 
 </p>
 
