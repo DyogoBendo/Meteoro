@@ -5,7 +5,7 @@
 Esse projeto visa atender uma atividade do professor <a href="https://github.com/jeffersonchaves"> Jefferson Chaves </a>, que visa ensinar aos alunos do 3° ano do Curso Técnico em Informática do Instituto Federal do Paraná - Campus Foz do Iguaçu, na matéria de Tópicos Especiais I, a utilizar a ferramenta Git em conjunto com a plataforma do GitHub. 
 </p>
 
-<h3>Enunciado da Atividade</h3>
+<h3>Enunciado da Atividade 💻</h3>
 
 ```
 1. Selecione um clássico da música sertaneja e a transforme em um
@@ -13,18 +13,18 @@ página html;
 2. A atividade deve ser colaborativa! É necessário um grupo de ao
 menos 3 pessoas!
 3. Atividades:
-    a. Deve ser criado um arquivo HTML com a música (texto). Este
-    deve estar na Branch main (ramo principal);
-    b. Alguém (ou alguéns) deve ser responsável por estilizar a
-    página com CSS. Estas alterações devem estar em uma Branch
-    chamada estilos;
-    c. Os Branchs main e estilos devem ser juntados (merge);
-    d. Uma issue (pepino) deve ser aberta, solicitando que um
-    vídeo do Youtube seja acrescentado na página. Deve ser
-    feita uma alteração e no commit, deve ser apontada a issue
-    que deu origem a alteração;
-    e. Uma versão para a página deve ser criada;
-    f. Todos do grupo precisam ter ao menos um commit realizado.
+    a.  Deve ser criado um arquivo HTML com a música (texto). Este
+        deve estar na Branch main (ramo principal);
+    b.  Alguém (ou alguéns) deve ser responsável por estilizar a
+        página com CSS. Estas alterações devem estar em uma Branch
+        chamada estilos;
+    c.  Os Branchs main e estilos devem ser juntados (merge);
+    d.  Uma issue (pepino) deve ser aberta, solicitando que um
+        vídeo do Youtube seja acrescentado na página. Deve ser
+        feita uma alteração e no commit, deve ser apontada a issue
+        que deu origem a alteração;
+    e.  Uma versão para a página deve ser criada;
+    f.  Todos do grupo precisam ter ao menos um commit realizado.
 4. (Opcional)Crie sua github page.
 ```
 
