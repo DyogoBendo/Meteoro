@@ -1,15 +1,6 @@
+import AudioPlayer from './AudioPlayer.js'
+
 const playButton = document.querySelector('#play-button')
-const audioPlayer = document.querySelector('#player')
+const audiotag = document.querySelector('#player')
 
-document.createElement('audio').paus
-
-const toggleMusic = () => {
-    const { paused: status } = audioPlayer
-
-    playButton.textContent = !status ? 'CONTINUAR' : 'PAUSAR'
-    
-    status && audioPlayer.play()
-    status || audioPlayer.pause()
-}
-
-playButton.addEventListener('click', toggleMusic)
+AudioPlayer.initialize({ audio: audiotag, trigger: playButton })
