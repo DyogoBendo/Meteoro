@@ -11,6 +11,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    overflow: hidden;
 }
 
 .musica {
@@ -32,7 +33,7 @@ body {
 
 .musica .estrofe p {
     margin: 8px;
-    font-size: 1.2em;
+    font-size: 1.6em;
     padding: 4px;
     background-color: rgba(250, 250, 250, .2);
     width: fit-content;
