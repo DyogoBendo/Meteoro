@@ -59,10 +59,7 @@ class AudioPlayer{
             this.trigger.innerHTML = createButton({ 
                 icon: AudioPlayer.PLAY_ICON,
                 label: 'Escutar'
-            })
-            
-            window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })
-            window.clearInterval(lyricsHandler)
+            })                        
         })
 
     }
